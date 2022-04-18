@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<p>![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.Shaikhfaruk) </p>
-
 - 🔭 I’m a Full stack Web & Mobile App Developer
 
 - 🌱 currently, I'm sharpening my skills and installing new knowledge from this world.
@@ -42,3 +40,5 @@
  </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=immohitrathore&show_icons=true&locale=en&layout=compact" alt="Shaikhfaruk" /></p>
+
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.Shaikhfaruk)
