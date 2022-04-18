@@ -45,7 +45,7 @@
 
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" style="padding-right:10px;" />
 
-<img align="left" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="padding-right:10px;" />
+<img align="left" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="padding-right:10px; margin:20px 0" />
 
  </p>
 <br/>
