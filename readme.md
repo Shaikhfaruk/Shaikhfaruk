@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<!-- - 🔭 I’m currently working on  -->
+- 🔭 I’m a Full stack Web & Mobile App Developer
 
-- 🌱 I’m currently learning Mern_Devlopment & ReactNative Mobile Developer
+- 🌱 currently, I'm sharpening my skills and installing new knowledge from this world.
   <!-- - 👯 I’m looking to collaborate on internshala -->
   <!-- - 🤔 I’m looking for help with  -->
-- 💬 Ask me about MernDevlopment, ReactNative or any tech relative stuff
+- 💬 Ask me about MERN || ReactNative Devlopment or any tech relative stuff
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/faruk-shaikh-a5081a161"> @linkdin</a>
 - 😄 Pronouns: he/His
 
