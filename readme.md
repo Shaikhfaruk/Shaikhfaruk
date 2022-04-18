@@ -41,11 +41,11 @@
 
 <img align="left" width="35px" src="https://cdn.cdnlogo.com/logos/d/81/digitalocean-icon.svg" alt="DigitalOcean" style="padding-right:10px;" />
 
-<img align="left" width="35px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" style="padding-right:10px;" />
+<!-- <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" style="padding-right:10px;" /> -->
 
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" style="padding-right:10px;" />
 
-<img align="left" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="padding-right:10px; margin-top:10px;" />
+<img align="left" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="padding-right:10px;" />
 
  </p>
 <br/>
