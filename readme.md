@@ -40,6 +40,7 @@
  </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=immohitrathore&show_icons=true&locale=en&layout=compact" alt="Shaikhfaruk" /></p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikhfaruk&theme=tokyonight)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.Shaikhfaruk)
