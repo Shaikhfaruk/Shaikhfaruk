@@ -50,7 +50,7 @@
  </p>
 <br/>
 
- <h3 align="left">Most Used Languages & Github Stats</h3>
+### Most Used Languages & Github Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikhfaruk)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaikhfaruk&show_icons=true)
