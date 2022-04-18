@@ -41,5 +41,7 @@
  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
  </p>
 
+ <h3 align="left">most Used Languages & Github Stats</h3>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikhfaruk)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaikhfaruk&show_icons=true)
