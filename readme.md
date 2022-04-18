@@ -39,8 +39,7 @@
  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
  </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=immohitrathore&show_icons=true&locale=en&layout=compact" alt="Shaikhfaruk" /></p>
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaikhfaruk&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikhfaruk&theme=tokyonight)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.Shaikhfaruk)
