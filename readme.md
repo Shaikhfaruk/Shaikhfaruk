@@ -60,8 +60,7 @@
 [![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/Shaikhfaruk)
 
 <br/>
-<br/>
-<br/>
+
 ### Most Used Languages & Github Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikhfaruk)
