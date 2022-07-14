@@ -52,6 +52,16 @@
 <br/>
 <br/>
 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shaikhfaruk.netlify.app/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaikh-faruk/)
+
+[![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/Shaikhfaruk)
+
+<br/>
+<br/>
+<br/>
 ### Most Used Languages & Github Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikhfaruk)
