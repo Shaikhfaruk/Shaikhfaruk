@@ -66,6 +66,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikhfaruk)
 
 <br/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaikhfaruk&show_icons=true)
-<br/>
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaikhfaruk&show_icons=true)
+<br/> -->
 ![ShaikhFaruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaikhfaruk&show_icons=true&theme=radical)
