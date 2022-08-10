@@ -64,5 +64,6 @@
 ### Most Used Languages & Github Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikhfaruk)
+## stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaikhfaruk&show_icons=true)
 ![ShaikhFaruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaikhfaruk&show_icons=true&theme=radical)
