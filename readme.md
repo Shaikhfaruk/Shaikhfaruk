@@ -10,7 +10,7 @@
 - 💬 Ask me about MERN || ReactNative Development or any tech relative stuff
 - 👯 My Portfolio is <a href = "https://portfolio-faruk.vercel.app/"> Here</a>
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/faruk-shaikh-a5081a161"> @linkdin</a>
-- 😄 Pronouns: he/His
+- 😄 Pronouns: Faruk
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
