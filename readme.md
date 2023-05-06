@@ -57,19 +57,19 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaikh-faruk/)
 
-[![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/Shaikhfaruk)
-
 <br/>
 
 ### Most Used Languages & Github Stats
+
+<div align="center">
+  <a href="https://github.com/Shaikhfaruk/github-readme-activity-graph"><img alt="Shaikhfaruk's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Shaikhfaruk&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikhfaruk)
 ## stats
 ![ShaikhFaruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaikhfaruk&show_icons=true&theme=radical)
 
-<div align="center">
-  <a href="https://github.com/Shaikhfaruk/github-readme-activity-graph"><img alt="Shaikhfaruk's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Shaikhfaruk&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-</div>
+
 
 
 ![Thank You github](https://user-images.githubusercontent.com/41143496/111601768-b13aec00-87f8-11eb-8d8c-51db093db5da.gif)
