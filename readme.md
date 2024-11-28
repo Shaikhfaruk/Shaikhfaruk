@@ -1,71 +1,169 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.Shaikhfaruk)
+<div align="center">
+  
+# Shaikh Faruk
+### Senior Team Lead — MERN Stack Development
 
-### Hi there 👋
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-faruk.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faruk-shaikh-a5081a161)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shaikhfaruk)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sfaruk1137@gmail.com)
 
-- 🔭 I’m a Full stack Web & Mobile App Developer
-- 🌱 currently, I'm sharpening my skills and updating my knowledge.
-  <!-- - 👯 I’m looking to collaborate on internshala -->
-  <!-- - 🤔 I’m looking for help with  -->
-- 💬 Ask me about MERN || ReactNative Development or any tech relative stuff
-- 👯 My Portfolio is <a href = "https://portfolio-faruk.vercel.app/"> Here</a>
-- 📫 How to reach me: <a href = "https://www.linkedin.com/in/faruk-shaikh-a5081a161"> @linkdin</a>
-- 😄 Pronouns: Faruk
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+## Professional Summary
+Senior Team Lead and MERN Stack Developer with 4.5+ years of extensive experience in full-stack web development and team leadership. Demonstrated expertise in architecting scalable solutions, implementing best practices, and driving technological innovation. Proven track record of successfully delivering complex projects while mentoring development teams and maintaining high code quality standards.
 
-<img align="left" alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="margin:10px" />
+## 🎯 Core Competencies
+- **Technical Leadership**: Team management, Agile methodologies, code review
+- **Architecture Design**: Scalable systems, performance optimization, best practices
+- **Full Stack Development**: End-to-end application development, API design
+- **Innovation**: Spearheading new technological initiatives and solutions
 
-<img align="left" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" style="margin:10px" />
+## 💼 Professional Experience
 
-<img align="left" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin:10px" />
+### Senior Team Lead — MERN Stack Developer
+**EduNewron (ODM Educational Group)** | Pune, India | Aug 2023 - Present
+- Lead development teams in creating comprehensive educational software solutions
+- Implement architectural decisions and best practices for scalability
+- Drive innovation in technological capabilities and development processes
+- Mentor team members and ensure code quality through reviews and standards
+- Collaborate with stakeholders to align technical solutions with business goals
 
-<img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="margin:10px" />
-v
-<img align="left" alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="margin:10px" />
+### Full Stack MERN Developer
+**Coffeetobusiness (TechCream)** | Indore, India | Aug 2022 - July 2023
+- Developed robust e-commerce platforms and SaaS solutions
+- Implemented performance optimizations resulting in improved application metrics
+- Utilized Agile methodologies and CI/CD pipelines for efficient delivery
+- Created scalable solutions using MERN stack technologies
 
-<img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="margin:10px" />
+### Frontend Developer
+**Criada** | Indore, India | Aug 2021 - Feb 2022
+- Specialized in React.js development for web applications
+- Collaborated with cross-functional teams for feature implementation
+- Enhanced UI/UX through modern frontend technologies
+- Maintained high code quality through testing and best practices
 
-<img align="left" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="margin:10px" />
+### Freelance Developer
+**Code Crushers** | Jan 2019 - Jul 2022
+- Delivered customized web solutions for diverse clients
+- Managed complete project lifecycles from requirements to deployment
+- Implemented responsive and scalable applications
+- Provided ongoing support and maintenance
 
-<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="margin:10px" />
+## 🚀 Featured Projects
 
-<img align="left" alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin:10px" />
+### EduNewron | [Live Demo](https://school.elern.io/#team)
+Educational platform revolutionizing institutional management
+- **Tech Stack**: React.js, Tailwind CSS, Node.js, MongoDB
+- **Key Features**: 
+  - Comprehensive educational institution management
+  - Scalable architecture for multiple institutions
+  - Real-time updates and notifications
+  - Advanced reporting and analytics
 
-<img align="left" alt="Sass" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="margin:10px" />
+### Pitchspot | [Live Demo](https://app.pitchspot.io/)
+Advanced blogging and meeting management platform
+- **Tech Stack**: React.js, Next.js, Express.js, MongoDB, Socket.io
+- **Features**:
+  - Real-time collaboration tools
+  - Advanced blog creation with Editor.js
+  - Integrated meeting management
+  - Automated testing with Cypress
 
+### MYTY | [Live Demo](https://mytym.in/)
+Personal web presence platform
+- **Tech Stack**: React.js, Next.js, Node.js, MongoDB, Socket.io
+- **Features**:
+  - Customizable personal profiles
+  - Real-time updates and notifications
+  - Responsive design
+  - Scalable architecture
 
+## 🛠️ Technical Expertise
 
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white)
 
+### Styling & Design
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakra-ui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
 
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongodb&logoColor=white)
+![Strapi CMS](https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 
-<img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin:10px" />
+### Testing & Quality
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testing-library&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
 
-<img align="left" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="margin:10px" />
+### DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-<img align="left" width="35px" src="https://cdn.cdnlogo.com/logos/d/81/digitalocean-icon.svg" alt="DigitalOcean" style="margin:10px" />
+### Tools & Utilities
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-<!-- <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" style="margin:10px" /> -->
+## 📦 Open Source Contributions
 
-<img align="left" width="35px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" style="margin:10px" />
+### newron-ui
+A modern React component library built for educational platforms
+- **npm Package**: [newron-ui](https://www.npmjs.com/package/newron-ui)
+- **Key Features**:
+  - Customizable component library with educational focus
+  - Built with TypeScript for type safety
+  - Comprehensive documentation and examples
+  - Seamless integration with React applications
+  - Atomic design principles
+  - Responsive and accessible components
+  - Theme customization support
+  - 
+## 📊 GitHub Analytics
 
- </p>
-<br/>
-<br/>
-<br/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shaikhfaruk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikhfaruk&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shaikhfaruk.netlify.app/)
+## 🎓 Education
+**Bachelor of Computer Science (B.C.S)**  
+Dr. Babasaheb Ambedkar Marathwada University, Aurangabad | 2021 - 2024
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaikh-faruk/)
+## 🌐 Languages
+- English (Professional)
+- Hindi (Native)
+- Marathi (Native)
 
-<br/>
+---
 
-### Most Used Languages & Github Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikhfaruk)
-## stats
-![ShaikhFaruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaikhfaruk&show_icons=true&theme=radical)
-
-
-![Thank You github](https://user-images.githubusercontent.com/41143496/111601768-b13aec00-87f8-11eb-8d8c-51db093db5da.gif)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shaikhfaruk&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
