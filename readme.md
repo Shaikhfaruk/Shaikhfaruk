@@ -166,6 +166,43 @@ Dr. Babasaheb Ambedkar Marathwada University, Aurangabad | 2021 - 2024
 - Hindi (Native)
 - Marathi (Native)
 
+## 🚀 Deployed Projects
+
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| Advance Splitwise | Expense splitting and management tool | [Live Demo](https://advance-splitwise.vercel.app/) |
+| Age Calculator | Calculate age with precision | [Live Demo](https://age-calculator-five-iota.vercel.app/) |
+| Unit Converter Plus | Multi-unit conversion utility | [Live Demo](https://unit-converter-plus.vercel.app/) |
+| Chinu Chat | Real-time messaging application | [Live Demo](https://chinu-chat.vercel.app/) |
+| Tulsi College | Educational institution website | [Live Demo](https://tulsicollege.vercel.app/) |
+| E-Commerce Store | Modern shopping platform | [Live Demo](https://shop-ecru.vercel.app/) |
+| Interactive Dashboard | Data visualization interface | [Live Demo](https://csb-09ipw.vercel.app/) |
+| TikTok Counter | Social media metrics tracker | [Live Demo](https://tiktok-counter.vercel.app/) |
+| Escribelo | Writing and documentation platform | [Live Demo](https://escribelo.vercel.app/) |
+| TIA Web | Web application interface | [Live Demo](https://ti-a-web.vercel.app/) |
+| Loothereum | Blockchain-based platform | [Live Demo](https://loothereum.vercel.app/) |
+| Zuriets | Web application | [Live Demo](https://zuriets.vercel.app/) |
+| GCC Club | Community platform | [Live Demo](https://gccclub.vercel.app/) |
+| PS Global TV Client | Streaming platform - Client | [Live Demo](https://ps-global-tv-client.vercel.app/) |
+| PS Global TV Admin | Streaming platform - Admin | [Live Demo](https://ps-global-tv-admin.vercel.app/login) |
+| Ludo Game | Classic board game recreation | [Live Demo](https://ludo-frontend-ashy.vercel.app/) |
+
+---
+<p align="center">
+  <i>✨ All projects are deployed and maintained on Vercel. Click on the links to explore live demos!</i>
+</p>
+
+<!--
+Quick Links:
+- Portfolio: [Your Portfolio URL]
+- LinkedIn: [Your LinkedIn URL]
+- Twitter: [Your Twitter URL]
+-->
+---
+<p align="center">
+  <i>These are just a few highlights from my portfolio. Check out my repositories for more projects!</i>
+</p>
+
 ---
 
 <div align="center">
