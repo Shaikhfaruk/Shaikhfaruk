@@ -3,6 +3,7 @@
 # Shaikh Faruk
 ### Senior Team Lead — MERN Stack Development
 
+[![Resume](https://img.shields.io/badge/Resume-34D399?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1sYASjLkzhbB9U566Eb-W007ww9culeCYNCjExRgEsbY/edit?usp=sharing)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-faruk.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faruk-shaikh-a5081a161)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shaikhfaruk)
@@ -16,7 +17,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaikhfaruknewron)
 
 ## Professional Summary
-Senior Team Lead and MERN Stack Developer with 4.5+ years of extensive experience in full-stack web development and team leadership. Demonstrated expertise in architecting scalable solutions, implementing best practices, and driving technological innovation. Proven track record of successfully delivering complex projects while mentoring development teams and maintaining high code quality standards.
+Senior Team Lead and MERN Stack Developer with 4.5+ years of extensive experience in full-stack web development and team leadership. Demonstrated expertise in architecting scalable solutions, implementing best practices, and driving technological innovation. Proven track record of successfully delivering complex projects while mentoring development teams and maintaining high-quality code quality standards.
 
 ## 🎯 Core Competencies
 - **Technical Leadership**: Team management, Agile methodologies, code review
@@ -45,7 +46,7 @@ Senior Team Lead and MERN Stack Developer with 4.5+ years of extensive experienc
 **Criada** | Indore, India | Aug 2021 - Feb 2022
 - Specialized in React.js development for web applications
 - Collaborated with cross-functional teams for feature implementation
-- Enhanced UI/UX through modern frontend technologies
+- Enhanced UI/UX through modern front-end technologies
 - Maintained high code quality through testing and best practices
 
 ### Freelance Developer
