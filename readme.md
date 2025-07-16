@@ -17,7 +17,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaikhfaruknewron)
 
 ## Professional Summary
-Senior Team Lead and MERN Stack Developer with 5.5+ years of extensive experience in full-stack web development and team leadership. Demonstrated expertise in architecting scalable solutions, implementing best practices, and driving technological innovation. Proven track record of successfully delivering complex projects while mentoring development teams and maintaining high-quality code quality standards.
+Senior Team Lead and MERN Stack Developer with 7+ years of extensive experience in full-stack web development and team leadership. Demonstrated expertise in architecting scalable solutions, implementing best practices, and driving technological innovation. Proven track record of successfully delivering complex projects while mentoring development teams and maintaining high-quality code quality standards.
 
 ## 🎯 Core Competencies
 - **Technical Leadership**: Team management, Agile methodologies, code review
