@@ -102,50 +102,11 @@ const faruk = {
 
 ## `🗓️ Contribution Snake`
 
-> ⚙️ **Setup required:** Add the workflow below to `.github/workflows/snake.yml` in your profile repo to generate this animation.
-
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/Shaikhfaruk/Shaikhfaruk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
-<details>
-<summary>📋 Click to copy the GitHub Action for Snake Animation</summary>
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
