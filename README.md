@@ -87,7 +87,6 @@ const faruk = {
 
 </div>
 
-<details>
 ---
 
 ## `📡 Skill Proficiency Matrix`
