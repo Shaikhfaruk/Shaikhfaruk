@@ -67,28 +67,6 @@ const faruk = {
 
 ---
 
-## `♟️ Play Chess Against Me — Right Here`
-
-> **This board is LIVE.** Click any move link below — it opens a pre-filled GitHub Issue. I have a bot that processes your move, updates the board automatically, and plays back. You're literally playing chess *inside* a GitHub README.
-
-<div align="center">
-
-![Chess Board](./chess/board.svg)
-
-</div>
-
-<!-- CHESS-MOVES-START -->
-**It's your turn! (You play as ⬜ White)**
-
-| | a | b | c | d | e | f | g | h |
-|---|---|---|---|---|---|---|---|---|
-| **Open** | [a2→a3](https://github.com/Shaikhfaruk/Shaikhfaruk/issues/new?title=chess%3A+a2a3&body=Making+the+move+a2-a3.+Good+luck!&labels=chess) | [b2→b3](https://github.com/Shaikhfaruk/Shaikhfaruk/issues/new?title=chess%3A+b2b3&body=Making+the+move+b2-b3.+Good+luck!&labels=chess) | [c2→c3](https://github.com/Shaikhfaruk/Shaikhfaruk/issues/new?title=chess%3A+c2c3&body=Making+the+move+c2-c3.+Good+luck!&labels=chess) | [d2→d4](https://github.com/Shaikhfaruk/Shaikhfaruk/issues/new?title=chess%3A+d2d4&body=Making+the+move+d2-d4.+Good+luck!&labels=chess) | [e2→e4](https://github.com/Shaikhfaruk/Shaikhfaruk/issues/new?title=chess%3A+e2e4&body=Making+the+move+e2-e4.+Good+luck!&labels=chess) | [f2→f3](https://github.com/Shaikhfaruk/Shaikhfaruk/issues/new?title=chess%3A+f2f3&body=Making+the+move+f2-f3.+Good+luck!&labels=chess) | [g1→f3](https://github.com/Shaikhfaruk/Shaikhfaruk/issues/new?title=chess%3A+g1f3&body=Making+the+move+g1-f3.+Good+luck!&labels=chess) | [h2→h3](https://github.com/Shaikhfaruk/Shaikhfaruk/issues/new?title=chess%3A+h2h3&body=Making+the+move+h2-h3.+Good+luck!&labels=chess) |
-<!-- CHESS-MOVES-END -->
-
-> 🤖 Move processed by GitHub Actions bot. Game state lives in [`chess/game.pgn`](./chess/game.pgn). View [game history](./chess/history.md).
-
----
-
 ## `🌐 3D Contribution Globe`
 
 > My entire contribution history rendered as a 3D spinning globe.
@@ -131,16 +109,6 @@ const faruk = {
  AWS            ██████████████░░░░░░  70%  Intermediate
 ──────────────────────────────────────────────────────────────
 ```
-
----
-
-## `🏆 Trophy Case`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shaikhfaruk&theme=matrix&no-frame=true&column=7&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
